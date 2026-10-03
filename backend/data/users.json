@@ -1,0 +1,10 @@
+[
+  {
+    "id": "usr-admin-1",
+    "name": "Project Administrator",
+    "email": "admin@mylocal.org",
+    "password": "$2a$10$IufGfl1fuJIyHmfiHrykneLcplthX9Ln2eCU8CQjRpY4PfVgKLdU6",
+    "role": "admin",
+    "createdAt": "2026-10-03T07:41:24.265Z"
+  }
+]

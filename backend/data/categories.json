@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cat-hospital",
+    "name": "Hospitals & Clinics",
+    "slug": "hospitals",
+    "icon": "Hospital",
+    "description": "Government & municipal hospitals, primary healthcare centers, and dispensaries.",
+    "color": "#e11d48",
+    "count": 4
+  },
+  {
+    "id": "cat-pharmacy",
+    "name": "Pharmacies & Chemist",
+    "slug": "pharmacies",
+    "icon": "Pill",
+    "description": "24/7 chemist shops, generic medicine stores (Jan Aushadhi), and dispensaries.",
+    "color": "#059669",
+    "count": 3
+  },
+  {
+    "id": "cat-police",
+    "name": "Police Stations",
+    "slug": "police",
+    "icon": "ShieldAlert",
+    "description": "Local police stations, women help desks, traffic police outposts, and beat chowkis.",
+    "color": "#2563eb",
+    "count": 3
+  },
+  {
+    "id": "cat-school",
+    "name": "Public Schools",
+    "slug": "schools",
+    "icon": "GraduationCap",
+    "description": "BMC municipal schools, government aided colleges, and community study centers.",
+    "color": "#d97706",
+    "count": 3
+  },
+  {
+    "id": "cat-toilet",
+    "name": "Public Toilets",
+    "slug": "public-toilets",
+    "icon": "DoorClosed",
+    "description": "Community sanitation blocks, pay-and-use toilets, and accessible sanitation facilities.",
+    "color": "#0891b2",
+    "count": 4
+  },
+  {
+    "id": "cat-fire",
+    "name": "Fire Stations",
+    "slug": "fire-stations",
+    "icon": "Flame",
+    "description": "Municipal fire command centers, emergency rescue stations, and disaster response units.",
+    "color": "#ea580c",
+    "count": 2
+  },
+  {
+    "id": "cat-govt",
+    "name": "Government Offices",
+    "slug": "government-offices",
+    "icon": "Building2",
+    "description": "Municipal ward offices, Aadhaar centers, ration distribution, and post offices.",
+    "color": "#4f46e5",
+    "count": 3
+  },
+  {
+    "id": "cat-emergency",
+    "name": "Emergency Services",
+    "slug": "emergency",
+    "icon": "Ambulance",
+    "description": "Disaster management control rooms, ambulance hubs, and flood relief centers.",
+    "color": "#dc2626",
+    "count": 2
+  }
+]

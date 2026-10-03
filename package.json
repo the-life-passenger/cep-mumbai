@@ -1,0 +1,23 @@
+{
+  "name": "mylocal-services-cep",
+  "version": "1.0.0",
+  "description": "MyLocal Services - University of Mumbai B.Sc. Computer Science Semester V Community Engagement Project (CEP)",
+  "type": "module",
+  "scripts": {
+    "build": "npm --prefix frontend install && npm --prefix frontend run build && npm --prefix backend install",
+    "start": "node backend/server.js",
+    "dev": "node run.js",
+    "install:all": "npm --prefix backend install && npm --prefix frontend install"
+  },
+  "keywords": [
+    "community-engagement-project",
+    "mumbai-university",
+    "bsc-cs",
+    "leaflet",
+    "react",
+    "express",
+    "mongodb"
+  ],
+  "author": "B.Sc. Computer Science Students - Mumbai University",
+  "license": "MIT"
+}

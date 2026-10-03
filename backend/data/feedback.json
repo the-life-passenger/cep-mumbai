@@ -1,0 +1,49 @@
+[
+  {
+    "id": "id-1791013983079-3oebw",
+    "createdAt": "2026-10-03T07:53:03.079Z",
+    "updatedAt": "2026-10-03T07:53:03.079Z",
+    "name": "rajesh",
+    "rating": 5,
+    "feedback": "love it",
+    "suggestion": "",
+    "approved": false
+  },
+  {
+    "id": "id-1791013760153-vrf05",
+    "createdAt": "2026-10-03T07:49:20.153Z",
+    "updatedAt": "2026-10-03T07:49:20.153Z",
+    "name": "Automated Test Reviewer",
+    "rating": 5,
+    "feedback": "Exceptional UI design and smooth UX. Works perfectly.",
+    "suggestion": "",
+    "approved": false
+  },
+  {
+    "id": "fb-1",
+    "name": "Dr. A. Deshmukh",
+    "rating": 5,
+    "feedback": "An exemplary community initiative. Having verified contact numbers and operating hours of local public health centers saves crucial minutes during emergencies.",
+    "suggestion": "Consider adding blood bank availability indicators in future phases.",
+    "approved": true,
+    "createdAt": "2026-09-30T11:00:00.000Z"
+  },
+  {
+    "id": "fb-2",
+    "name": "Meera Nair",
+    "rating": 5,
+    "feedback": "The interactive map is fast and very easy to navigate on mobile. Wheelchair accessibility tags are especially helpful for my grandparents.",
+    "suggestion": "Add Marathi language translation in the future if possible.",
+    "approved": true,
+    "createdAt": "2026-10-01T16:30:00.000Z"
+  },
+  {
+    "id": "fb-3",
+    "name": "Vikram Mehta",
+    "rating": 4,
+    "feedback": "Clean, clutter-free design. Far better than outdated government portal listings. Proud to see Mumbai University students building practical civic tools.",
+    "suggestion": "Keep updating the public toilet hygiene indicators.",
+    "approved": true,
+    "createdAt": "2026-10-02T08:15:00.000Z"
+  }
+]

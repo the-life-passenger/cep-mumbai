@@ -1,0 +1,65 @@
+{
+  "heroBadge": "COMMUNITY SERVICE DIRECTORY",
+  "heroHeading": "Essential Services. Right Where You Need Them.",
+  "heroDescription": "Discover essential public services in your locality through a simple, accessible and community-powered digital directory.",
+  "aboutProblem": "Residents and visitors often face significant friction locating reliable, up-to-date information regarding essential public facilities in their neighborhoods — such as 24/7 pharmacies, accessible municipal sanitation blocks, police beat chowkis, and government dispensaries.",
+  "aboutObjective": "To digitally survey, geolocate, and catalog essential civic facilities across surveyed localities, presenting them through an open, accessible web portal and interactive digital map that empowers community members and identifies service accessibility deficits.",
+  "aboutMethodology": [
+    "Select target geographic locality and boundary wards",
+    "Conduct structured field visits and on-ground reconnaissance",
+    "Identify and geocode essential public facilities",
+    "Collect verified contact details, operational timings and facilities",
+    "Conduct community engagement survey among local residents",
+    "Verify gathered data against municipal records and spot-checks",
+    "Digitize datasets and structure open schemas",
+    "Develop accessible responsive web application and digital map",
+    "Analyze collected survey data and service spatial distribution",
+    "Prepare comprehensive CEP report with civic recommendations"
+  ],
+  "emergencyHelplines": [
+    {
+      "title": "National Emergency Number",
+      "number": "112",
+      "desc": "All-in-one emergency dispatch for Police, Fire & Medical"
+    },
+    {
+      "title": "Police Emergency Control",
+      "number": "100",
+      "desc": "Direct connection to Mumbai City Police Control Room"
+    },
+    {
+      "title": "Ambulance / Medical Emergency",
+      "number": "108",
+      "desc": "Maharashtra Emergency Medical Services (Free Ambulance)"
+    },
+    {
+      "title": "Fire Brigade Control",
+      "number": "101",
+      "desc": "Fire fighting and urgent disaster rescue operations"
+    },
+    {
+      "title": "Women Helpline (Nirbhaya)",
+      "number": "1091",
+      "desc": "24/7 dedicated support and immediate intervention for women"
+    },
+    {
+      "title": "Senior Citizen Citizen Care",
+      "number": "14567",
+      "desc": "National helpline for elder care, abuse reporting & aid"
+    },
+    {
+      "title": "BMC Disaster Control Room",
+      "number": "1916",
+      "desc": "Municipal flood, tree fall, waterlogging and building collapse helpline"
+    },
+    {
+      "title": "Childline Emergency Aid",
+      "number": "1098",
+      "desc": "24-hour toll-free emergency phone service for children in need"
+    }
+  ],
+  "contactEmail": "cep.community@university-project.edu",
+  "contactPhone": "+91 22 2654 3000",
+  "contactLocality": "Mumbai, Maharashtra, India",
+  "projectDisclaimer": "This web application was designed as part of the University of Mumbai B.Sc. Computer Science Semester V Community Engagement Project (CEP). All field survey data will be updated following localized ward surveys."
+}

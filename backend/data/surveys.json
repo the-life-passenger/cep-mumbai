@@ -1,0 +1,69 @@
+[
+  {
+    "id": "id-1791013952294-wly20",
+    "createdAt": "2026-10-03T07:52:32.295Z",
+    "updatedAt": "2026-10-03T07:52:32.295Z",
+    "name": "rajesh",
+    "locality": "bhandup",
+    "ageGroup": "18-25 (Youth / Student)",
+    "serviceAccessProblem": "Public Toilets & Sanitation Blocks",
+    "servicesAvailableNearby": "Hospitals & Trauma Care",
+    "problemsFindingInfo": "",
+    "accessibilityProblem": "",
+    "suggestions": "",
+    "comments": ""
+  },
+  {
+    "id": "id-1791013760148-9uxd8",
+    "createdAt": "2026-10-03T07:49:20.148Z",
+    "updatedAt": "2026-10-03T07:49:20.148Z",
+    "name": "Automated Test Resident",
+    "locality": "Dadar West",
+    "ageGroup": "18-25",
+    "serviceAccessProblem": "Public Toilets",
+    "servicesAvailableNearby": "",
+    "problemsFindingInfo": "",
+    "accessibilityProblem": "",
+    "suggestions": "",
+    "comments": "Automated test verification"
+  },
+  {
+    "id": "surv-1",
+    "name": "Rohan K.",
+    "locality": "Dadar, Mumbai",
+    "ageGroup": "18-25",
+    "serviceAccessProblem": "Public Toilets",
+    "servicesAvailableNearby": "Hospitals, Schools, Police Stations",
+    "problemsFindingInfo": "Timings and whether wheelchair accessibility is available are rarely mentioned online.",
+    "accessibilityProblem": "Most toilet blocks have steep curbs without ramps or handrails.",
+    "suggestions": "Install clear tactile signage and keep the digital directory updated with exact gate timings.",
+    "comments": "Great initiative by B.Sc. CS students to map our local services.",
+    "createdAt": "2026-09-28T10:15:00.000Z"
+  },
+  {
+    "id": "surv-2",
+    "name": "Sunita M.",
+    "locality": "Bandra, Mumbai",
+    "ageGroup": "41-60",
+    "serviceAccessProblem": "Pharmacies & Chemist",
+    "servicesAvailableNearby": "Hospitals, Police Stations",
+    "problemsFindingInfo": "Night chemists are hard to locate during late night emergencies without calling multiple numbers.",
+    "accessibilityProblem": "Footpaths outside clinics are obstructed, making it hard for senior citizens.",
+    "suggestions": "Highlight verified 24/7 stores with direct phone buttons.",
+    "comments": "Essential for elderly residents living alone.",
+    "createdAt": "2026-09-29T14:40:00.000Z"
+  },
+  {
+    "id": "surv-3",
+    "name": "Anonymous Resident",
+    "locality": "Kurla, Mumbai",
+    "ageGroup": "26-40",
+    "serviceAccessProblem": "Government Offices",
+    "servicesAvailableNearby": "Schools, Public Toilets",
+    "problemsFindingInfo": "Confusion about which ward office handles my pin code.",
+    "accessibilityProblem": "Lack of parking and narrow corridors in civic offices.",
+    "suggestions": "Add a pin-code based ward office locator tool.",
+    "comments": "Valuable research for community civic tech.",
+    "createdAt": "2026-10-01T09:20:00.000Z"
+  }
+]
